@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\Contatos\FrmCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Contatos\FrmEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Contatos\FrmListar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\ContatoCtr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\ConversaCtr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\FrmBuscarContato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\FrmConversa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\FrmCriar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\FrmListas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Conversas\MensagemCtr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
